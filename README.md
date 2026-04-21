@@ -10,7 +10,7 @@ The objective was to identify:
 ---
 
 ## Objective
-To analyze customer and transaction data and identify key issues in customer retention and revenue growth.
+The goal of this project was to analyze customer and order data to identify key issues in customer retention and provide actionable insights to improve business performance.
 
 ---
 
@@ -64,6 +64,6 @@ The Power BI dashboard includes:
 ---
 
 ## Conclusion
-The analysis highlights that improving customer retention and focusing on high-value customers can help the business achieve better long-term growth.
+This analysis helped identify key gaps in customer retention and revenue concentration. By improving retention strategies and focusing on high-value customers, the business can achieve better long-term growth.
 
 ---
