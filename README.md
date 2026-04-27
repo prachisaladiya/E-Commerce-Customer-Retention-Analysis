@@ -1,4 +1,4 @@
-# E-Commerce Customer Retention Analysis
+# E-Commerce Growth & Customer Behavior Analysis
 
 ## Problem Statement
 An E-commerce company observed that its revenue was stable, but growth had slowed down. At the same time, repeat purchases were declining.  
