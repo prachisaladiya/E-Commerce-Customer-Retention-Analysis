@@ -55,6 +55,7 @@ The goal of this project was to analyze customer and order data to identify key 
 ---
 
 ## Dashboard
+![E-Commerce Dashboard](https://github.com/prachisaladiya/E-Commerce-Customer-Retention-Analysis/blob/main/E-Commerce%20Dashboard.png)
 The Power BI dashboard includes:
 - Revenue trend over time  
 - Customer retention (cohort analysis)  
